@@ -1,14 +1,14 @@
 # theJawBreaker
 A simple website
 
-TheJawBreaker/
-├── backend/                                                   
-│   ├── config/               # Database connection strings
-│   ├── models/               # MongoDB Schemas (Event.js, Announcement.js)
-│   ├── routes/               # API endpoints (auth.js, events.js)
-│   ├── middleware/           # Security guards (checking if someone is an admin)
-│   ├── server.js             # Server entry point
-│   └── package.json          # Server dependencies (express, mongoose, dotenv)
+TheJawBreaker/                                  
+├── backend/                                                                                     
+│   ├── config/               # Database connection strings                                  
+│   ├── models/               # MongoDB Schemas (Event.js, Announcement.js)                                  
+│   ├── routes/               # API endpoints (auth.js, events.js)                                  
+│   ├── middleware/           # Security guards (checking if someone is an admin)                                  
+│   ├── server.js             # Server entry point                                  
+│   └── package.json          # Server dependencies (express, mongoose, dotenv)                                  
 │                                  
 └── frontend/                                                                   
     ├── public/                                  
